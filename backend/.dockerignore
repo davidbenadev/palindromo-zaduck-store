@@ -1,0 +1,9 @@
+# Archivos y carpetas a ignorar por Docker
+node_modules
+dist
+.git
+.vscode
+npm-debug.log*
+# Archivos de NestJS
+*.spec.ts
+docker-compose.yml
